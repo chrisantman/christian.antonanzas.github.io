@@ -1,14 +1,10 @@
+# Repositories shown on the "Repositories" page.
+# Replace with your own GitHub username and repos.
+
 github_users:
-  - torvalds
-  - alshedivat
+  - chrisantman # your GitHub username
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  # - owner/repo  (list the repos you want to showcase)
