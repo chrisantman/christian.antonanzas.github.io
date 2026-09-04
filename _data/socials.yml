@@ -1,13 +1,11 @@
 # This file contains the social media links and usernames of the author.
 # The socials are displayed in the order defined here.
-# Fill in your own data. Comment out (with #) any line you don't need.
 # Docs: https://github.com/george-gca/jekyll-socials
 
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file (place it in assets/pdf/)
-email: tu.email@example.com # your email address
-# scholar_userid: <tu Google Scholar ID> # uncomment and set your Google Scholar ID
-# ORCID: 0000-0000-0000-0000 # uncomment if you have an ORCID
+email: cristian.antonanzas@unir.net # your email address
+orcid_id: 0000-0001-8577-4467 # your ORCID identifier
 github_username: chrisantman # your GitHub username
-# linkedin_username: <tu-usuario> # uncomment if you have LinkedIn
-# twitter_username: <tu-usuario> # uncomment if you have Twitter/X
+linkedin_username: christianantonanzas # your LinkedIn username
+scholar_userid: KbOiAY0AAAAJ # your Google Scholar ID
 rss_icon: true # keeps the RSS icon in the footer

@@ -16,6 +16,7 @@ node_modules/
 output/playwright/
 test-results/
 vendor
+raw
 
 # Python bytecode from bin/ helper scripts
 __pycache__/

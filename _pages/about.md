@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Universidad Internacional de La Rioja (UNIR)</a>. Acoustics &amp; audio signal processing. <a href='#'>Logroño, Spain</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Foto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Logroño, La Rioja, Spain</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher and lecturer in acoustics and audio signal processing. I hold a **PhD in Telecommunications from the Universitat Politècnica de València (UPV)**, awarded *Cum Laude* with International Mention, specializing in distributed adaptive algorithms for multichannel **active noise control** over acoustic sensor networks. My results in this area have been recognized with a **CNEAI research period (sexenio)** and have been published in JCR journals and top international conferences.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In recent years I have extended my research towards **audio processing with artificial intelligence**, especially voice conversion and music generation, combining academia with an intense industrial career as **Engineering Research Manager and Audio Technical Lead at Voicemod**, acoustic engineer at **Capgemini** and **TECESA**, and data engineer at **Bosonit**, leading R&D teams and projects in real-time voice and sound technology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently **Teaching and Research Staff (PDI) at the Universidad Internacional de La Rioja (UNIR)**, where I teach acoustics, sound, and music technology in the **Degree in Music** and the **Master's in Musical Research**, and supervise final degree and master's theses in these areas. I have also participated in competitive national projects (**DisCoSound**, **SSPressing**) and European projects (**D-Noise**, H2020-FETOPEN), and completed a research stay at **KU Leuven**.
+
+My current interests lie at the intersection of room acoustics, spatial audio, sound field control, voice technologies, and creative applications of AI in music and sound. I am also a reviewer for several high-impact international journals in acoustics, audio, and telecommunications.
