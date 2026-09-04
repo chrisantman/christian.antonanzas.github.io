@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Universidad Internacional de La Rioja (UNIR)</a>. Acoustics &amp; audio signal processing. <a href='#'>Logroño, Spain</a>.
+subtitle: <a href='#'>Universidad Internacional de La Rioja (UNIR)</a>. Acoustics &amp; audio signal processing.
 
 profile:
   align: right
   image: Foto.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Logroño, La Rioja, Spain</p>
+  more_info: false
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
