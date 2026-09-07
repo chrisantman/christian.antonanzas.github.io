@@ -44,7 +44,7 @@ cv:
         position: Audio Technical Lead
         location: Spain
         start_date: 2022
-        end_date: present
+        end_date: 2024
         summary: Technical lead of audio in real-time voice processing products; DSP research and prototyping in MATLAB/Python with integration into a real-time C/C++ audio framework (VST plugins); technical coordination of audio R&D.
 
       - company: Capgemini Engineering
@@ -158,11 +158,3 @@ cv:
         date: 2025
         issuer: UNIR
         icon: fa-solid fa-robot
-
-    References:
-      - name: Prof. Alberto González Salvador
-        icon: fa-solid fa-laptop
-        reference: PhD supervisor and Director of the GTAC group, iTEAM-UPV.
-      - name: Prof. Miguel Ferrer Contreras
-        icon: fa-solid fa-thumbtack
-        reference: PhD supervisor, GTAC group, iTEAM-UPV.

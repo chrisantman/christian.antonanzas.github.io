@@ -1,6 +1,6 @@
 # Christian Antoñanzas
 
-Personal website about my academic and research career, built with [al-folio](https://github.com/alshedivat/al-folio) (a [Jekyll](https://jekyllrb.com/) theme).
+Personal website about my academic and research career.
 
 Published at: [https://chrisantman.github.io/christian.antonanzas.github.io/](https://chrisantman.github.io/christian.antonanzas.github.io/)
 
@@ -16,13 +16,6 @@ Published at: [https://chrisantman.github.io/christian.antonanzas.github.io/](ht
 ## About me
 
 PhD in Telecommunications from the Universitat Politècnica de València (UPV). Researcher and lecturer at the Universidad Internacional de La Rioja (UNIR), specializing in acoustics, audio processing, active noise control and AI applications in music and sound. I combined academia with an industrial career at Voicemod, Capgemini, TECESA and Bosonit.
-
-## Local development
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
 
 ## Contact
 
