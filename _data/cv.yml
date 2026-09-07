@@ -32,6 +32,32 @@ cv:
           - Distributed and collaborative adaptive algorithms for active noise control over acoustic sensor networks.
           - Research stay at KU Leuven (ESAT/STADIUS).
 
+      - institution: Universitat Politècnica de València (UPV)
+        location: Valencia, Spain
+        area: Acoustics Engineering
+        studyType: Master's Degree
+        start_date: 2009
+        end_date: 2011
+        score: 8.6/10
+        highlights:
+          - Thesis: Simulator for a Generic Adaptive Multichannel Playback System.
+
+      - institution: Public University of Navarre (UPNA)
+        location: Pamplona, Spain
+        area: Technical Engineering in Telecommunications, specialization in Sound and Image
+        studyType: Bachelor's Degree
+        start_date: 2005
+        end_date: 2009
+        score: 6.5/10
+
+      - institution: Andoain Film and Video School
+        location: Andoain, Spain
+        area: Sound
+        studyType: Higher Professional Training
+        start_date: 2003
+        end_date: 2005
+        score: 8.5/10   
+
     Experience:
       - company: Universidad Internacional de La Rioja (UNIR)
         position: Teaching and Research Staff (PDI) — Lecturer
